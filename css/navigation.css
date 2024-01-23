@@ -1,0 +1,25 @@
+.Nissan{
+    border: 4px solid black;
+    background-color: #5fa068;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Arial Black";
+    width: 560;
+}
+.Mazda{
+    border: 4px solid brown;
+    background-color: burlywood;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Calibri Light";
+}
+.Toyota{
+    border: 4px solid firebrick;
+    background-color: darkslategrey;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Calibri Light";
+}
